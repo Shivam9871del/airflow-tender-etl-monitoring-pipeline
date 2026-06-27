@@ -1,0 +1,6 @@
+tender_status,sla_status,tender_count,avg_cycle_days,max_delay_days,total_estimate_value_lakhs
+Cancelled,Cancelled,10,99.6,95,4193.13
+Completed,Completed Delayed,35,75.8,28,63058.57
+Completed,Completed Within SLA,65,52.23,0,81117.71
+Under Process,Running Delayed,47,99.94,115,28893.8
+Under Process,Running Within SLA,43,42.7,0,87552.09

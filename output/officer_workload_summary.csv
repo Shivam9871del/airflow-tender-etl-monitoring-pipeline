@@ -1,0 +1,59 @@
+officer_id,category,current_stage,pending_with,running_tender_count,avg_delay_days,max_delay_days,total_estimate_value_lakhs
+O-01,MAT,Pending Award Approval,GM Contracts / Finance GM,1,24.0,24,37.58
+O-01,MAT,Pending CBA,Officer,1,82.0,82,678.51
+O-01,MAT,Pending NIT,Officer,1,0.0,0,7409.26
+O-01,MAT,Pending PBO Approval,GM Contracts / Finance GM,1,0.0,0,4419.24
+O-01,MAT,Pending TBA,Officer,3,0.0,0,2052.77
+O-01,MAT,Pending Tender Floating,GM Contracts,1,0.0,0,4947.94
+O-01,MAT,Pending Workability/Reasonability,Finance GM,1,96.0,96,92.89
+O-02,MAT,Pending NIT,Officer,3,23.67,71,1073.38
+O-02,MAT,Pending Order Issue,Officer,1,25.0,25,94.33
+O-02,MAT,Pending PBO Approval,GM Contracts / Finance GM,4,0.0,0,10193.52
+O-02,MAT,Pending TBA,Officer,1,20.0,20,205.59
+O-02,MAT,Pending Technical Bid Opening,Officer,1,0.0,0,9638.59
+O-02,MAT,Pending Tender Floating,GM Contracts,1,0.0,0,80.93
+O-02,MAT,Pending Workability/Reasonability,Finance GM,1,44.0,44,78.37
+O-03,MAT,Pending Award Approval,GM Contracts / Finance GM,3,38.0,84,513.79
+O-03,MAT,Pending NIT,Officer,1,2.0,2,776.39
+O-03,MAT,Pending PBO Approval,GM Contracts / Finance GM,1,47.0,47,70.22
+O-04,SER,Pending Award Approval,GM Contracts / Finance GM,1,22.0,22,11.45
+O-04,SER,Pending Price Comparison,Officer,1,34.0,34,525.97
+O-04,SER,Pending Technical Bid Opening,Officer,2,0.0,0,3724.98
+O-04,SER,Pending Tender Floating,GM Contracts,1,0.0,0,816.27
+O-04,SER,Pending Workability/Reasonability,Finance GM,1,26.0,26,166.9
+O-04,WRK,Pending Award Approval,GM Contracts / Finance GM,2,40.5,43,9495.66
+O-04,WRK,Pending CBA,Officer,1,0.0,0,194.72
+O-04,WRK,Pending PBO Approval,GM Contracts / Finance GM,1,0.0,0,152.86
+O-04,WRK,Pending TBA,Officer,1,87.0,87,16.3
+O-05,SER,Pending NIT,Officer,4,0.0,0,11809.91
+O-05,SER,Pending Order Issue,Officer,2,14.5,23,1303.78
+O-05,SER,Pending PBO Approval,GM Contracts / Finance GM,1,0.0,0,560.8
+O-05,SER,Pending TBA,Officer,2,97.0,102,721.15
+O-05,SER,Pending Tender Floating,GM Contracts,1,115.0,115,14.05
+O-05,WRK,Pending NIT,Officer,1,0.0,0,9641.58
+O-05,WRK,Pending Order Issue,Officer,1,11.0,11,51.53
+O-06,SER,Pending CBA,Officer,1,20.0,20,703.09
+O-06,SER,Pending NIT,Officer,1,0.0,0,78.84
+O-06,SER,Pending Tender Floating,GM Contracts,4,12.5,49,6062.64
+O-06,SER,Pending Workability/Reasonability,Finance GM,4,39.25,41,888.25
+O-06,WRK,Pending NIT,Officer,1,0.0,0,501.99
+O-06,WRK,Pending Tender Floating,GM Contracts,1,0.0,0,336.51
+O-07,SER,Pending NIT,Officer,1,0.0,0,6117.91
+O-07,SER,Pending Order Issue,Officer,2,19.0,29,700.9
+O-07,SER,Pending Technical Bid Opening,Officer,2,7.5,12,1602.74
+O-07,SER,Pending Tender Floating,GM Contracts,1,1.0,1,33.41
+O-08,SER,Pending CBA,Officer,1,0.0,0,586.54
+O-08,SER,Pending NIT,Officer,1,0.0,0,23.01
+O-08,WRK,Pending TBA,Officer,1,0.0,0,685.78
+O-09,SER,Pending Award Approval,GM Contracts / Finance GM,3,31.0,45,782.24
+O-09,SER,Pending CBA,Officer,1,7.0,7,70.41
+O-09,SER,Pending Price Comparison,Officer,2,53.5,81,146.91
+O-09,SER,Pending Technical Bid Opening,Officer,1,72.0,72,775.93
+O-09,SER,Pending Workability/Reasonability,Finance GM,1,38.0,38,65.88
+O-10,SER,Pending CBA,Officer,1,0.0,0,3951.16
+O-10,SER,Pending NIT,Officer,3,0.0,0,693.01
+O-10,SER,Pending Order Issue,Officer,1,8.0,8,6546.82
+O-10,SER,Pending PBO Approval,GM Contracts / Finance GM,1,108.0,108,706.72
+O-10,SER,Pending Price Comparison,Officer,1,39.0,39,695.56
+O-10,SER,Pending TBA,Officer,2,0.0,0,746.35
+O-10,SER,Pending Technical Bid Opening,Officer,3,0.0,0,1372.08

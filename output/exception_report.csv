@@ -1,0 +1,77 @@
+Tender ID,Officer ID,Category,Tender Status,Rule Name,Severity,Issue Description
+IOC/BD/26-27/001,O-07,WRK,Completed,Date Sequence Issue,High,Price Comparison Date is earlier than PBO Date
+IOC/BD/26-27/001,O-07,WRK,Completed,Date Sequence Issue,High,Order Issued Date is earlier than Award Approval Date
+IOC/BD/26-27/005,O-03,MAT,Completed,Date Sequence Issue,High,Price Comparison Date is earlier than PBO Date
+IOC/BD/26-27/007,O-02,MAT,Completed,Date Sequence Issue,High,Order Issued Date is earlier than Award Approval Date
+IOC/BD/26-27/008,O-02,MAT,Completed,Date Sequence Issue,High,PBO Date is earlier than CBA Date
+IOC/BD/26-27/009,O-09,SER,Completed,Date Sequence Issue,High,PBO Date is earlier than CBA Date
+IOC/BD/26-27/009,O-09,SER,Completed,Date Sequence Issue,High,Order Issued Date is earlier than Award Approval Date
+IOC/BD/26-27/012,O-10,SER,Under Process,Remarks Date Mismatch,Medium,Remarks mention PBO but PBO Date is missing
+IOC/BD/26-27/013,O-02,MAT,Completed,Date Sequence Issue,High,Order Issued Date is earlier than Award Approval Date
+IOC/BD/26-27/019,O-05,SER,Under Process,Remarks Date Mismatch,Medium,Remarks mention technical evaluation but TBA Date is missing
+IOC/BD/26-27/024,O-02,MAT,Completed,Date Sequence Issue,High,Order Issued Date is earlier than Award Approval Date
+IOC/BD/26-27/025,O-05,WRK,Completed,Date Sequence Issue,High,Order Issued Date is earlier than Award Approval Date
+IOC/BD/26-27/027,O-01,MAT,Under Process,Date Sequence Issue,High,Price Comparison Date is earlier than PBO Date
+IOC/BD/26-27/030,O-03,MAT,Completed,Date Sequence Issue,High,Order Issued Date is earlier than Award Approval Date
+IOC/BD/26-27/033,O-05,SER,Under Process,Remarks Date Mismatch,Medium,Remarks mention technical evaluation but TBA Date is missing
+IOC/BD/26-27/034,O-04,WRK,Completed,Date Sequence Issue,High,PBO Date is earlier than CBA Date
+IOC/BD/26-27/036,O-07,SER,Completed,Date Sequence Issue,High,Price Comparison Date is earlier than PBO Date
+IOC/BD/26-27/040,O-04,WRK,Under Process,Remarks Date Mismatch,Medium,Remarks mention technical evaluation but TBA Date is missing
+IOC/BD/26-27/043,O-04,SER,Completed,Date Sequence Issue,High,Price Comparison Date is earlier than PBO Date
+IOC/BD/26-27/050,O-09,SER,Completed,Date Sequence Issue,High,Price Comparison Date is earlier than PBO Date
+IOC/BD/26-27/050,O-09,SER,Completed,Date Sequence Issue,High,Order Issued Date is earlier than Award Approval Date
+IOC/BD/26-27/059,O-09,SER,Under Process,Remarks Date Mismatch,Medium,Remarks mention technical evaluation but TBA Date is missing
+IOC/BD/26-27/063,O-08,SER,Completed,Date Sequence Issue,High,Order Issued Date is earlier than Award Approval Date
+IOC/BD/26-27/065,O-02,MAT,Completed,Date Sequence Issue,High,Order Issued Date is earlier than Award Approval Date
+IOC/BD/26-27/067,O-08,SER,Completed,Date Sequence Issue,High,Order Issued Date is earlier than Award Approval Date
+IOC/BD/26-27/068,O-08,SER,Completed,Date Sequence Issue,High,Order Issued Date is earlier than Award Approval Date
+IOC/BD/26-27/069,O-08,SER,Completed,Date Sequence Issue,High,PBO Date is earlier than CBA Date
+IOC/BD/26-27/070,O-07,SER,Completed,Date Sequence Issue,High,Order Issued Date is earlier than Award Approval Date
+IOC/BD/26-27/071,O-05,SER,Completed,Date Sequence Issue,High,Order Issued Date is earlier than Award Approval Date
+IOC/BD/26-27/072,O-05,SER,Completed,Date Sequence Issue,High,Order Issued Date is earlier than Award Approval Date
+IOC/BD/26-27/073,O-08,SER,Completed,Date Sequence Issue,High,Order Issued Date is earlier than Award Approval Date
+IOC/BD/26-27/075,O-06,SER,Completed,Date Sequence Issue,High,Price Comparison Date is earlier than PBO Date
+IOC/BD/26-27/077,O-04,SER,Completed,Date Sequence Issue,High,Order Issued Date is earlier than Award Approval Date
+IOC/BD/26-27/081,O-03,MAT,Completed,Date Sequence Issue,High,Order Issued Date is earlier than Award Approval Date
+IOC/BD/26-27/083,O-10,SER,Completed,Date Sequence Issue,High,Price Comparison Date is earlier than PBO Date
+IOC/BD/26-27/084,O-06,SER,Completed,Date Sequence Issue,High,Order Issued Date is earlier than Award Approval Date
+IOC/BD/26-27/085,O-09,SER,Completed,Date Sequence Issue,High,Order Issued Date is earlier than Award Approval Date
+IOC/BD/26-27/092,O-03,MAT,Under Process,Remarks Date Mismatch,Medium,Remarks mention PBO but PBO Date is missing
+IOC/BD/26-27/095,O-09,SER,Under Process,Date Sequence Issue,High,PBO Date is earlier than CBA Date
+IOC/BD/26-27/100,O-06,SER,Under Process,Date Sequence Issue,High,Price Comparison Date is earlier than PBO Date
+IOC/BD/26-27/107,O-01,MAT,Completed,Date Sequence Issue,High,Order Issued Date is earlier than Award Approval Date
+IOC/BD/26-27/111,O-10,SER,Completed,Date Sequence Issue,High,Order Issued Date is earlier than Award Approval Date
+IOC/BD/26-27/114,O-03,MAT,Completed,Date Sequence Issue,High,Price Comparison Date is earlier than PBO Date
+IOC/BD/26-27/118,O-08,SER,Completed,Date Sequence Issue,High,Order Issued Date is earlier than Award Approval Date
+IOC/BD/26-27/119,O-06,SER,Completed,Date Sequence Issue,High,Order Issued Date is earlier than Award Approval Date
+IOC/BD/26-27/121,O-04,SER,Under Process,Date Sequence Issue,High,Price Comparison Date is earlier than PBO Date
+IOC/BD/26-27/123,O-01,MAT,Under Process,Date Sequence Issue,High,Price Comparison Date is earlier than PBO Date
+IOC/BD/26-27/124,O-07,SER,Completed,Date Sequence Issue,High,PBO Date is earlier than CBA Date
+IOC/BD/26-27/124,O-07,SER,Completed,Date Sequence Issue,High,Order Issued Date is earlier than Award Approval Date
+IOC/BD/26-27/126,O-04,SER,Under Process,Date Sequence Issue,High,Price Comparison Date is earlier than PBO Date
+IOC/BD/26-27/129,O-02,MAT,Under Process,Remarks Date Mismatch,Medium,Remarks mention technical evaluation but TBA Date is missing
+IOC/BD/26-27/132,O-10,SER,Completed,Date Sequence Issue,High,Order Issued Date is earlier than Award Approval Date
+IOC/BD/26-27/133,O-03,MAT,Under Process,Date Sequence Issue,High,Price Comparison Date is earlier than PBO Date
+IOC/BD/26-27/135,O-08,SER,Completed,Date Sequence Issue,High,Order Issued Date is earlier than Award Approval Date
+IOC/BD/26-27/139,O-07,SER,Under Process,Remarks Date Mismatch,Medium,Remarks mention technical evaluation but TBA Date is missing
+IOC/BD/26-27/146,O-07,SER,Completed,Date Sequence Issue,High,Price Comparison Date is earlier than PBO Date
+IOC/BD/26-27/151,O-07,SER,Under Process,Remarks Date Mismatch,Medium,Remarks mention technical evaluation but TBA Date is missing
+IOC/BD/26-27/155,O-10,SER,Under Process,Remarks Date Mismatch,Medium,Remarks mention technical evaluation but TBA Date is missing
+IOC/BD/26-27/163,O-04,SER,Under Process,Remarks Date Mismatch,Medium,Remarks mention technical evaluation but TBA Date is missing
+IOC/BD/26-27/164,O-01,MAT,Under Process,Remarks Date Mismatch,Medium,Remarks mention technical evaluation but TBA Date is missing
+IOC/BD/26-27/165,O-02,MAT,Under Process,Remarks Date Mismatch,Medium,Remarks mention PBO but PBO Date is missing
+IOC/BD/26-27/166,O-02,MAT,Under Process,Remarks Date Mismatch,Medium,Remarks mention PBO but PBO Date is missing
+IOC/BD/26-27/167,O-02,MAT,Under Process,Remarks Date Mismatch,Medium,Remarks mention PBO but PBO Date is missing
+IOC/BD/26-27/168,O-01,MAT,Under Process,Remarks Date Mismatch,Medium,Remarks mention technical evaluation but TBA Date is missing
+IOC/BD/26-27/169,O-02,MAT,Under Process,Remarks Date Mismatch,Medium,Remarks mention technical evaluation but TBA Date is missing
+IOC/BD/26-27/171,O-04,SER,Under Process,Remarks Date Mismatch,Medium,Remarks mention technical evaluation but TBA Date is missing
+IOC/BD/26-27/173,O-01,MAT,Under Process,Remarks Date Mismatch,Medium,Remarks mention technical evaluation but TBA Date is missing
+IOC/BD/26-27/174,O-05,SER,Under Process,Remarks Date Mismatch,Medium,Remarks mention PBO but PBO Date is missing
+IOC/BD/26-27/180,O-04,WRK,Under Process,Remarks Date Mismatch,Medium,Remarks mention PBO but PBO Date is missing
+IOC/BD/26-27/183,O-10,SER,Under Process,Remarks Date Mismatch,Medium,Remarks mention technical evaluation but TBA Date is missing
+IOC/BD/26-27/187,O-10,SER,Under Process,Remarks Date Mismatch,Medium,Remarks mention technical evaluation but TBA Date is missing
+IOC/BD/26-27/190,O-08,WRK,Under Process,Remarks Date Mismatch,Medium,Remarks mention technical evaluation but TBA Date is missing
+IOC/BD/26-27/194,O-02,MAT,Under Process,Remarks Date Mismatch,Medium,Remarks mention PBO but PBO Date is missing
+IOC/BD/26-27/195,O-10,SER,Under Process,Remarks Date Mismatch,Medium,Remarks mention technical evaluation but TBA Date is missing
+IOC/BD/26-27/197,O-10,SER,Under Process,Remarks Date Mismatch,Medium,Remarks mention technical evaluation but TBA Date is missing
+IOC/BD/26-27/200,O-01,MAT,Under Process,Remarks Date Mismatch,Medium,Remarks mention PBO but PBO Date is missing

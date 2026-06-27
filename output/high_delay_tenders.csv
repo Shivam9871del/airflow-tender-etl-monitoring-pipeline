@@ -1,0 +1,32 @@
+tender_id,category,officer_id,estimate_value_lakhs,tender_status,current_stage,pending_with,cycle_days,delay_days,remarks
+IOC/BD/26-27/002,SER,O-05,14.05,Under Process,Pending Tender Floating,GM Contracts,175,115,Tender floated; bids awaited
+IOC/BD/26-27/012,SER,O-10,706.72,Under Process,Pending PBO Approval,GM Contracts / Finance GM,168,108,File forwarded for PBO approval
+IOC/BD/26-27/019,SER,O-05,655.16,Under Process,Pending TBA,Officer,162,102,Technical evaluation in progress
+IOC/BD/26-27/027,MAT,O-01,92.89,Under Process,Pending Workability/Reasonability,Finance GM,156,96,Price reasonability/workability under review
+IOC/BD/26-27/029,MAT,O-02,976.29,Cancelled,Pending PBO Approval,GM Contracts / Finance GM,155,95,Tender cancelled as less than 2 bidders remained after evaluation
+IOC/BD/26-27/032,SER,O-06,665.0,Cancelled,Pending TBA,Officer,153,93,Tender cancelled due to less than 3 bidders
+IOC/BD/26-27/033,SER,O-05,65.99,Under Process,Pending TBA,Officer,152,92,Technical evaluation in progress
+IOC/BD/26-27/040,WRK,O-04,16.3,Under Process,Pending TBA,Officer,147,87,Technical evaluation in progress
+IOC/BD/26-27/044,MAT,O-03,85.51,Under Process,Pending Award Approval,GM Contracts / Finance GM,144,84,Award approval under process
+IOC/BD/26-27/046,MAT,O-01,678.51,Under Process,Pending CBA,Officer,142,82,Commercial evaluation in progress
+IOC/BD/26-27/048,SER,O-09,53.24,Under Process,Pending Price Comparison,Officer,141,81,Price comparison statement under preparation
+IOC/BD/26-27/054,SER,O-07,64.89,Cancelled,Pending Technical Bid Opening,Officer,136,76,Tender cancelled due to change in PQC after floating
+IOC/BD/26-27/059,SER,O-09,775.93,Under Process,Pending Technical Bid Opening,Officer,132,72,Technical bid opening due
+IOC/BD/26-27/060,SER,O-07,52.92,Cancelled,Pending Workability/Reasonability,Finance GM,132,72,Tender cancelled as L1 bidder backed out after PBO
+IOC/BD/26-27/061,MAT,O-02,15.77,Under Process,Pending NIT,Officer,131,71,NIT draft under preparation
+IOC/BD/26-27/090,SER,O-06,10.48,Under Process,Pending Tender Floating,GM Contracts,109,49,Tender floated; bids awaited
+IOC/BD/26-27/091,SER,O-09,364.15,Cancelled,Pending PBO Approval,GM Contracts / Finance GM,108,48,Tender cancelled as less than 2 bidders remained after evaluation
+IOC/BD/26-27/092,MAT,O-03,70.22,Under Process,Pending PBO Approval,GM Contracts / Finance GM,107,47,File forwarded for PBO approval
+IOC/BD/26-27/095,SER,O-09,304.96,Under Process,Pending Award Approval,GM Contracts / Finance GM,105,45,Award approval under process
+IOC/BD/26-27/096,MAT,O-02,78.37,Under Process,Pending Workability/Reasonability,Finance GM,104,44,Negotiation in progress; revised offer awaited
+IOC/BD/26-27/097,SER,O-09,418.51,Under Process,Pending Award Approval,GM Contracts / Finance GM,104,44,Award approval under process
+IOC/BD/26-27/098,WRK,O-04,32.12,Under Process,Pending Award Approval,GM Contracts / Finance GM,103,43,Negotiation in progress; revised offer awaited
+IOC/BD/26-27/100,SER,O-06,11.25,Under Process,Pending Workability/Reasonability,Finance GM,101,41,Price reasonability/workability under review
+IOC/BD/26-27/101,SER,O-06,434.26,Under Process,Pending Workability/Reasonability,Finance GM,101,41,Price reasonability/workability under review
+IOC/BD/26-27/102,SER,O-06,402.46,Under Process,Pending Workability/Reasonability,Finance GM,100,40,Price reasonability/workability under review
+IOC/BD/26-27/103,SER,O-10,695.56,Under Process,Pending Price Comparison,Officer,99,39,Price comparison statement under preparation
+IOC/BD/26-27/104,WRK,O-04,9463.54,Under Process,Pending Award Approval,GM Contracts / Finance GM,98,38,Award approval under process
+IOC/BD/26-27/105,SER,O-09,65.88,Under Process,Pending Workability/Reasonability,Finance GM,98,38,Price reasonability/workability under review
+IOC/BD/26-27/106,SER,O-04,589.29,Cancelled,Pending TBA,Officer,97,37,Tender cancelled due to less than 3 bidders
+IOC/BD/26-27/108,SER,O-06,40.28,Under Process,Pending Workability/Reasonability,Finance GM,95,35,Price reasonability/workability under review
+IOC/BD/26-27/110,SER,O-04,525.97,Under Process,Pending Price Comparison,Officer,94,34,Price comparison statement under preparation
